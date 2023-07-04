@@ -1,7 +1,7 @@
 # UselessScript
 A toy programming language made using Java.
 
-[UselessScript](repl.it/@HrishavSanyal/UselessScript)
+[UselessScript](https://repl.it/@HrishavSanyal/UselessScript/)
 
 # Commands
 ```py
