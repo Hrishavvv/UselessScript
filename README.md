@@ -5,7 +5,7 @@ A toy programming language made using Java.
 printKar("General Commands")
 ```
 
-```python
+```ruby
 man lo("to initialise
 a variable")
 manual.exe("to open up
