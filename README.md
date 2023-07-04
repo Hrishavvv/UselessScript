@@ -1,8 +1,8 @@
 # UselessScript
 A toy programming language made using Java.
 # Commands
-```py
-printKar("General Commands")
+```pascal
+GENERAL COMMANDS
 ```
 
 ```ruby
