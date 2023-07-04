@@ -6,8 +6,8 @@ ye_hai("General Commands")
 ```
 
 ```js
-ye_hai "man lo"=>"to initialise
+(likho)"man lo"=>"to initialise
 a variable"
-ye_hai "manual.exe"=>"to open up
+(likho)"manual.exe"=>"to open up
 the manual"
 ``` 
