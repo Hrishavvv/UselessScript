@@ -2,10 +2,12 @@
 A toy programming language made using Java.
 # Commands
 ```py
-pwint("General Commands")
+sun bro ye hai("General Commands")
 ```
 
 ```js
-let "man lo"=>"to initialise a let variable"
-let "manual.exe"=>"to open up the manual"
+let "man lo"=>"to initialise
+a variable"
+let "manual.exe"=>"to open up
+the manual"
 ``` 
