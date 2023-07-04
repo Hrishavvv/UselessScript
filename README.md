@@ -1,6 +1,6 @@
 # UselessScript
 A toy programming language made using Java.
 # Commands
-```py
-man lo
+```js
+console.log("man lo");
 ``` 
